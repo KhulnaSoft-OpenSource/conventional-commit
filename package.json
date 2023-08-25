@@ -1,20 +1,20 @@
 {
-  "name": "@open-sauced/conventional-commit",
+  "name": "@khulnasoft-opensource/conventional-commit",
   "version": "1.0.1",
   "license": "MIT",
   "bin": {
     "conventional-commit": "index.js"
   },
   "main": "index.js",
-  "author": "TED Vortex <ted.vortex@gmail.com> (vortex.name)",
+  "author": "Md Sulaiman <infosulaiman@icloud.com>",
   "engines": {
     "node": ">=14",
     "npm": ">=6"
   },
-  "bugs": "https://github.com/open-sauced/conventional-commit/issues",
+  "bugs": "https://github.com/khulnasoft-opensource/conventional-commit/issues",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/open-sauced/conventional-commit.git"
+    "url": "git+ssh://git@github.com/khulnasoft-opensource/conventional-commit.git"
   },
   "dependencies": {
     "commitizen": "^4.2.4",
@@ -29,7 +29,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@open-sauced/check-engines": "^1.1.1",
-    "@open-sauced/semantic-release-conventional-config": "^2.0.4"
+    "@khulnasoft-opensource/check-engines": "^1.1.1",
+    "@khulnasoft-opensource/semantic-release-conventional-config": "^2.0.4"
   }
 }
