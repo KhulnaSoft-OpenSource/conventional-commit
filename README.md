@@ -5,8 +5,8 @@
 [![Commits](https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/conventional-commit?style=flat)](https://github.com/khulnasoft-opensource/conventional-commit/pulse)
 [![Issues](https://img.shields.io/github/issues/khulnasoft-opensource/conventional-commit.svg?style=flat)](https://github.com/khulnasoft-opensource/conventional-commit/issues)
 [![Releases](https://img.shields.io/github/v/release/khulnasoft-opensource/conventional-commit.svg?style=flat)](https://github.com/khulnasoft-opensource/conventional-commit/releases)
-[![Discord](https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/U2peSNf23P)
-[![Twitter](https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social)](https://twitter.com/saucedopen)
+[![Discord](https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/58KbV5w2)
+[![Twitter](https://img.shields.io/twitter/follow/khulnasoft?label=Follow&style=social)](https://twitter.com/khulnasoft)
 
 </div>
 
