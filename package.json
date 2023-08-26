@@ -31,6 +31,6 @@
   "devDependencies": {
     "@khulnasoft-opensource/check-engines": "^1.2.0",
     "@khulnasoft-opensource/conventional-commit": "^1.0.1",
-    "@khulnasoft-opensource/semantic-release-conventional-config": "^3.1.0"
+    "@khulnasoft-opensource/semantic-release-conventional-config": "^2.0.4"
   }
 }
